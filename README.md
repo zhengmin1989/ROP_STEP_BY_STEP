@@ -1,5 +1,7 @@
 # ROP_STEP_BY_STEP
 
+作者微博：蒸米spark http://www.weibo.com/zhengmin1989
+
 文章地址：
 http://drops.wooyun.org/author/%E8%92%B8%E7%B1%B3
 
